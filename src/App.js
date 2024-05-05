@@ -16,8 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-
-          Michael Meade - Project 4 Cloud mfor Developers
         </a>
       </header>
     </div>
